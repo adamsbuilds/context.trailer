@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 
 msgctxt "#32000"
-msgid "Play trailer"
+msgid "Play Trailer"
 msgstr ""
 
 msgctxt "#32001"
